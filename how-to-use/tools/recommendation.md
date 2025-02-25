@@ -1,23 +1,23 @@
-# 콘텐츠 추천 기능(beta)
+# Content Recommendation Feature (Beta)
 
-## 콘텐츠 추천 기능이란?
+## What’s the Content Recommendation Feature?
 
-> 고객님의 취향에 꼭 맞는 콘텐츠를 쉽게 찾으실 수 있도록,\
-> 고객님의 알플레이 활동 이력을 바탕으로 콘텐츠를 추천드립니다.
+> Helping you easily find content that matches your taste,  
+> we recommend stuff based on your RPLAY activity history.
 
-## 알고리즘에 영향을 주는 활동
+## Activities That Affect the Algorithm
 
-* 댓글 작성
-* 좋아요
-* 재생목록에 추가
-* 구매
-* 댓글 후원
-* 재생
+* Writing comments
+* Liking content
+* Adding to playlists
+* Purchasing
+* Supporting via comments
+* Playing content
 
 ***
 
 {% hint style="info" %}
-* 알플레이 활동 데이터가 부족한 경우, 임의의 콘텐츠가 표시될 수 있습니다.
-* 나와 비슷한 취향의 유저들이 좋아한 콘텐츠가 내게 추천될 수 있습니다.
-* 콘텐츠 추천 기능은 현재 베타 서비스로 점차 정확도가 높아질 수 있도록 업데이트될 예정입니다.
+* If there’s not enough RPLAY activity data, random content might show up.
+* Content liked by users with similar tastes might get recommended to you.
+* The recommendation feature is currently in beta and will get more accurate with future updates.
 {% endhint %}
