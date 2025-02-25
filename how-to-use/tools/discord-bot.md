@@ -1,20 +1,20 @@
-# 알플레이 디스코드 봇
+# RPLAY Discord Bot
 
-* 구독 중인 크리에이터 디스코드에서 유료 구독자 전용 채널을 운영 중이라면, 알플레이 디스코드 봇을 통해 구독자 전용 채널에 입장할 수 있습니다.
-* 구독 중인 크리에이터 님의 디스코드 채널에 입장 후, 알플봇 명령어 입력이 가능한 구독 인증 채널에서 인증을 시작해주세요. (다른 유저 분들이 인증하는 곳에서 하시면 됩니다!)
+* If a creator you’re subscribed to runs a paid subscriber-only channel on their Discord server, you can join it using the RPLAY Discord Bot.
+* After joining the creator’s Discord server, start verification in a subscription verification channel where the RPLAY Bot accepts commands. (Use the same spot other users verify in!)
 
-## 디스코드 봇 사용법
+## How to Use the Discord Bot
 
-1.  **/join-secret-channel 선택 or 입력 후 `enter`**
+1. **Select or type /join-secret-channel and hit `Enter`**  
+   <figure><img src="../../.gitbook/assets/image (112).png" alt="" width="563"><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (112).png" alt="" width="563"><figcaption></figcaption></figure>
-2. **알플레이에서 입장키 확인**
-   1.  구독 중인 크리에이터의 유료 티어 선택
+2. **Get Your Entry Key from RPLAY**  
+   1. Pick the paid tier of the creator you’re subscribed to.  
+      <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>  
+   2. Click the `Generate Discord Channel Entry Token` button.  
+      ![](<../../.gitbook/assets/image (116).png>)  
+   3. Hit `Copy Entry Token` and head back to Discord.  
+      ![](<../../.gitbook/assets/image (119).png>)  
 
-       <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
-   2. `디코 채널 입장 토큰 생성` 버튼 클릭\
-      ![](<../../.gitbook/assets/image (116).png>)
-   3. `입장 토큰 복사` 버튼 클릭 후 디스코드로 이동\
-      ![](<../../.gitbook/assets/image (119).png>)
-3. 복사한 입장키 붙여넣기 및 구독할 알플레이 계정 아이디(이메일)를 입력후 `Submit` 누르면, 구독 중인 모든 티어의 채널 입장 완료!\
+3. Paste the entry key, enter your RPLAY account ID (email), and click `Submit` to join all the channels for tiers you’re subscribed to!  
    ![](<../../.gitbook/assets/image (118).png>)
