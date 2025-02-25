@@ -1,5 +1,6 @@
 ---
 icon: flag-swallowtail
+hidden: true
 ---
 
 # 공지사항

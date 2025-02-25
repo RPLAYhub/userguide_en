@@ -1,5 +1,6 @@
 ---
 icon: book
+hidden: true
 ---
 
 # RPLAY 운영 정책
