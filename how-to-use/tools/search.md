@@ -1,35 +1,33 @@
 ---
-description: 검색을 통해 원하는 콘텐츠를 보다 쉽게 찾으실 수 있습니다.
+description: Find the content you want more easily with search.
 ---
 
-# 검색 기능
+# Search Feature
 
 {% hint style="info" %}
-검색 결과 및 추천 검색어 등은 19 on/off 토글의 영향을 받습니다.\
-찾고 싶은 콘텐츠의 관람등급을 감안해 검색해주세요.
+Search results and suggested terms are affected by the 19 ON/OFF toggle.  
+Search with the content’s age rating in mind!
 {% endhint %}
 
-### 일반 검색
+### Basic Search
 
-* 직접 검색 : 직접 검색 원하는 키워드를 입력 후 검색하실 수 있습니다.
-* 추천 검색어 : 검색 빈도가 높은 키워드가 추천 검색어로 제공됩니다. 원하는 키워드를 선택해 검색하실 수 있습니다.
-* 추천 카테고리 : 알플레이가 추천 카테고리로 구성한 키워드를 선택해 검색하실 수 있습니다.
+* Direct Search: Type in your keyword and hit search.
+* Suggested Terms: High-frequency search keywords are offered as suggestions—pick one to search.
+* Recommended Categories: Choose from keywords RPLAY has curated as recommended categories.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 상세 검색
+### Advanced Search
 
-검색 필터를 활용해 원하는 콘텐츠를 검색하실 수 있습니다.\
-상세검색 우측 화살표를 눌러 모든 상세 검색 필터를 확인할 수 있습니다.
+Use search filters to find exactly what you want.  
+Tap the arrow next to Advanced Search to see all filter options.
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* 기간 필터 : 입력한 기간 내에 업로드된 콘텐츠만 표시됩니다.
-* 태그 필터 : 입력한 태그를 포함한 콘텐츠만 표시됩니다.
-* 가격 필터 : 입력한 가격에 해당하는 콘텐츠만 표시됩니다.
-* 크리에이터 언어 : 입력한 언어를 사용하는 크리에이터의 콘텐츠만 표시됩니다.
-* 참여 크리에이터 : 입력한 크리에이터가 제작에 참여한 콘텐츠만 표시됩니다.
-
-***
+* Date Filter: Shows only content uploaded within your set timeframe.
+* Tag Filter: Shows only content with your specified tags.
+* Price Filter: Shows only content matching your price range.
+* Creator Language: Shows only content from creators using your chosen language.
+* Participating Creator: Shows only content made by your specified creator.
