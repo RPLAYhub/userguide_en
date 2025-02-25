@@ -1,45 +1,38 @@
-# RPLAY 서비스 소개
+# RPLAY Service Introduction
 
 ***
 
-## 모두의 서브컬쳐 플레이그라운드, RPLAY <a href="#undefined" id="undefined"></a>
+## Everyone’s Subculture Playground, RPLAY <a href="#undefined" id="undefined"></a>
 
-> 모두가 좋아하는 콘텐츠부터 나만 좋아하는 콘텐츠까지\
-> 수천, 수백의 취향이 수만가지 콘텐츠로 이어지는 서브컬쳐 플랫폼 알플레이입니다.\
-> \
-> 알플레이에서 당신의 취향에 꼭 맞는 콘텐츠를 즐겨보세요!
+> From content everyone loves to stuff only you’re into,  
+> RPLAY is a subculture platform where thousands of tastes connect to countless pieces of content.  
+>  
+> Dive into content that perfectly matches your vibe on RPLAY!
 
 <figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### \[다양한 콘텐츠]
+### [Diverse Content]
 
-**동영상, ASMR & 롤플레잉 등의 오디오, 이미지&파일 콘텐츠에 라이브 스트리밍 까지!**
+**Videos, ASMR & role-playing audio, images & files, plus live streaming!**
 
-크리에이터가 제공하는 다양한 콘텐츠를 한 곳에서 만나볼 수 있습니다.\
+You can check out all kinds of creator-made content in one spot.
 
+### [Free Creative Fun]
 
-### ﻿﻿\[자유로운 창작 활동]
+No limits on genre, taste, or style—enjoy whatever content you want, however you want.
 
-장르, 취향, 성향을 가리지 않고 원하는 콘텐츠를 무엇이든 자유롭게 즐길 수 있습니다.
+### [Easy to Use]
 
+Get a home screen that gathers just the lives and content from channels you follow.  
 
+Quick and easy access to your purchase history, playlists, and liked items.
 
-### \[편리한 이용]
+### [Close Connection]
 
-내가 구독한 채널의 라이브와 콘텐츠만 모아주는 홈 화면을 제공하고.
+Live chats, comments, channel communities, sponsorships, and even a messenger service.  
 
-구매 목록, 재생 목록, 좋아요한 목록에 쉽고 빠르게 접근할 수 있습니다.
-
-
-
-### \[긴밀한 소통]
-
-라이브 채팅과 댓글, 채널 별 커뮤니티, 후원 그리고 메신저 서비스까지.
-
-다양한 수단을 통해 크리에이터와 더 가깝게 소통할 수 있습니다.
-
-
+Connect with creators more closely through all these ways!
 
 ***
