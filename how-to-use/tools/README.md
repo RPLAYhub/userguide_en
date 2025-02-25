@@ -1,50 +1,48 @@
 ---
-description: 내 정보(마이페이지)에서 다양한 편의 기능을 사용하실 수 있습니다.
+description: Use various handy features from My Info (My Page).
 ---
 
-# 편의기능 안내
+# Convenience Features Guide
 
 ***
 
-## 내 정보
+## My Info
 
-* 유저 번호 확인 및 닉네임 설정, 프로필 사진 설정, 성인 인증, 어플 설정, 언어 선택, 원터치 결제 수단 제거 등의 기능을 사용하실 수 있습니다
-
-***
-
-## 좋아요한 목록 & 구매목록
-
-* 좋아요한 콘텐츠와 구매한 콘텐츠 전체를 모아볼 수 있고, 한 번에 플레이 할 수 있습니다.
+* Check your user ID, set your nickname, profile picture, complete adult verification, tweak app settings, pick your language, remove one-touch payment methods, and more!
 
 ***
 
-## 구독 중인 채널
+## Liked List & Purchase History
 
-* 구독 중 채널 확인 및 관리, 즐겨찾는 크리에이터를 지정할 수 있습니다.
-* 구독관리 버튼 옆 별 표시를 누르면 즐겨찾는 크리에이터로 등록할 수 있습니다.
-  * 알림 설정에서 즐겨찾는 크리의 알림 메일만 받아볼 수 있습니다.
+* See all your liked and purchased content in one place and play them with a single tap.
 
 ***
 
-## 재생목록
+## Subscribed Channels
 
-* 나만의 재생목록을 만들고, 원하는 콘텐츠를 추가해 한 번에 플레이 할 수 있습니다.
-* 드래그앤드롭을 통해 순서를 변경할 수 있습니다.
-
-***
-
-## 장바구니
-
-* 구매하고 싶은 콘텐츠를 장바구니에 담아두었다가 한 번에 구매하실 수 있습니다.
+* View and manage your subscribed channels, and mark creators as favorites.
+* Tap the star next to the “Manage Subscription” button to add a creator to your favorites.  
+  * In notification settings, you can opt to get email alerts only from favorite creators.
 
 ***
 
-## 알림 설정
+## Playlists
 
-* 알림 설정에서 이메일 알림 수신 여부를 설정할 수 있습니다.
-* 수신 대상 설정
-  * 구독 중인 모든 크리에이터, 즐겨찾는 크리에이터, 유료 구독 크리에이터 중 원하는 알림 메일 수신 대상을 선택하실 수 있습니다.
-* 종류 별 수신 여부 설정
-  * 업로드, 커뮤니티 포스트, 라이브, 댓글 등 종류 별 알림 수신 여부를 설정하실 수 있습니다.
+* Create your own playlists, add content you love, and play them all at once.
+* Drag and drop to rearrange the order.
 
 ***
+
+## Cart
+
+* Add content you want to buy to your cart and purchase everything in one go.
+
+***
+
+## Notification Settings
+
+* Decide whether to receive email notifications in the settings.
+* Who to get notifications from:  
+  * Choose between all subscribed creators, favorite creators, or paid subscription creators.
+* Types of notifications:  
+  * Set whether to get alerts for uploads, community posts, lives, comments, etc.
