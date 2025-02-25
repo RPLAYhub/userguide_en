@@ -1,45 +1,42 @@
-# 콘텐츠 이용 안내
+# Content Usage Guide
 
-## 영상 & 오디오 콘텐츠
+## Video & Audio Content
 
-* 메인페이지 및 각 카테고리 별 페이지, 크리에이터의 채널과 검색 페이지에서 원하는 콘텐츠를 찾아 시청하실 수 있습니다.
-* 크리에이터의 채널이나 내 정보 페이지 등에서 메인페이지로 돌아오려면 좌상단 알플레이  로고를 눌러주세요.
-*   콘텐츠가 블러처리되어 있다면, 상단 ‘19’ 버튼을 On 해주세요.
-
-    <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="369"><figcaption></figcaption></figure>
-* 영상&오디오 콘텐츠는 알플레이 내에서만 시청 가능하며 다운로드가 불가능합니다.
+* Find and watch content on the main page, category pages, creators’ channels, or through the search page.
+* To return to the main page from a creator’s channel or “My Info,” tap the RPLAY logo in the top left corner.
+* If content looks blurred, turn the ‘19’ button at the top ON.  
+  <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="369"><figcaption></figcaption></figure>
+* Video and audio content can only be viewed within RPLAY—downloading isn’t allowed.
 
 {% hint style="danger" %}
-콘텐츠 무단 다운로드 또는 녹화 시 알플레이 계정이 정지됩니다.
+Unauthorized downloading or recording of content will result in your RPLAY account being suspended.
 {% endhint %}
 
 ***
 
-## 라이브 & 다시보기
+## Live & Replays
 
-* 메인페이지 및 각 LIVE 페이지, 크리에이터의 채널에서 진행 중인 라이브 또는 다시보기를 찾아 시청하실 수 있습니다.
-* 방송 화면이 블러처리되어 있다면, 우측 상단 ‘19’ 버튼을 On 해주세요. <mark style="color:purple;">`(? 라이브도 블러 되나??) 확인 필요`</mark>
-
-***
-
-## 성인 콘텐츠
-
-* 연령 제한 성인 콘텐츠는 청소년 보호를 위해 성인 인증을 마친 후 이용할 수 있습니다.
-* 성인 인증을 마친 후엔, 우측 상단 ‘19’ 버튼 On/Off를 통해 성인 모드와 전연령 모드를 이용하실 수 있습니다.
-* 앱에서 성인 콘텐츠를 보려면, 웹브라우저로 알플레이 접속 후 `[`[`내 정보`](https://rplay.live/myinfo/)`]` 페이지에서 <mark style="color:blue;">`어플에서 19금 컨텐츠 표시`</mark>를 ON해주세요!
+* Catch ongoing lives or replays on the main page, LIVE section, or creators’ channels.
+* If the broadcast screen is blurred, turn the ‘19’ button on the top right ON. <mark style="color:purple;">`(? Are lives blurred too??) Needs confirmation`</mark>
 
 ***
 
-## 파일 & 이미지 콘텐츠
+## Adult Content
 
-* 다운로드 받을 수 있는 형태의 콘텐츠와 이미지 콘텐츠는 ‘파일콘텐츠’에서 제공됩니다.
-* 크리에이터의 채널 내 ‘파일콘텐츠’ 탭에서 원하는 콘텐츠를 찾아 다운로드 받으실 수 있습니다.
+* Age-restricted adult content requires adult verification for youth protection.
+* After verification, toggle the ‘19’ button ON/OFF on the top right to switch between adult and all-ages modes.
+* To view adult content in the app, visit [`My Info`](https://rplay.live/myinfo/) via a web browser and turn ON <mark style="color:blue;">`Show 19+ Content in App`</mark>!
+
+***
+
+## File & Image Content
+
+* Downloadable content and images are available under “File Content.”
+* Find and download what you want from the “File Content” tab on a creator’s channel.
 
 ***
 
-## 가챠
+## Gacha
 
-* 가챠는 크리에이터의 다양한 콘텐츠를 랜덤으로 획득할 수 있는 확률형 뽑기 시스템입니다.
-* 예측할 수 없는 즐거움을 느끼며 색다른 방식으로 콘텐츠를 경험해보세요!
-
-***
+* Gacha is a random draw system where you can score a variety of creator content.
+* Enjoy the unpredictable fun and experience content in a whole new way!
