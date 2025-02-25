@@ -1,58 +1,58 @@
-# 구독 안내
+# Subscription Guide
 
 ***
 
-## 구독 시스템 안내
+## Subscription System Guide
 
-알플레이에서는 월 단위 정기 결제를 통해 크리에이터 별 구독 티어를 구독할 수 있습니다.
+On RPLAY, you can subscribe to creators’ tiered plans with a monthly recurring payment.
 
 ***
 
-## 구독 혜택
+## Subscription Perks
 
-* 크리에이터 매달 정기 후원
-* 크리에이터가 제공하는 구독 티어 별 콘텐츠와 혜택
-  * 구독자 전용 콘텐츠, 생방송, 이모티콘, 메시지 발송 권한 등
-* 구독 티어 아이콘 및 구독 개월수 아이콘
-  * 댓글 및 채팅 작성 시 닉네임 앞에 표시
+* Monthly recurring support for creators
+* Exclusive content and benefits based on subscription tiers  
+  * Subscriber-only content, live streams, emotes, messaging privileges, etc.
+* Tier badges and subscription duration icons  
+  * Displayed next to your nickname in comments and chats
 
 {% hint style="info" %}
-- 무료 티어 구독만으로도 무료 구독자 전용 콘텐츠를 시청하거나 업로드 알림 등을 받아보실 수 있습니다.
-- 티어 별로 제공되는 혜택이 다르기 때문에 어떤 혜택이 제공되는지 잘 확인 후 구독해주세요.
-- 크리에이터의 설정에 따라 일부 티어는 **구독을 시작한 월 이후에 공개된 콘텐츠만 시청 가능**합니다.(스트릭 구독)\
-  구독 이전 월에 업로드된 콘텐츠는 시청불가하며, 이후에 업로드된 콘텐츠는 구독을 취소할 때까지 계속 시청 가능합니다. \
-  예시)\
-  \- 7월 부터 구독을 시작 한 경우, 6월 이전 콘텐츠는 시청 불가\
-  \- 11월까지 구독을 유지한 경우, 7\~11월 간 제공된 콘텐츠 시청 가능\
-  \- 12월에 구독 해지 시, 그간 시청 가능했던 콘텐츠 모두 시청 불가
+- Even a free tier subscription lets you access free subscriber-only content or get upload notifications.
+- Benefits vary by tier, so check what’s included before subscribing!
+- Depending on the creator’s settings, some tiers only let you view content posted **after your subscription starts** (strict subscription).  
+  Content from before your subscription isn’t viewable, but you can keep watching new content until you cancel.  
+  Example:  
+  - If you start subscribing in July, content from June or earlier isn’t viewable.  
+  - If you stay subscribed until November, you can view content from July to November.  
+  - If you cancel in December, all previously viewable content becomes inaccessible.
 {% endhint %}
 
 ***
 
-## 구독 결제
+## Subscription Payments
 
-* 구독 결제 시 결제일에 최초 구독료가 결제 되며, 등록된 카드로 매월 1일 갱신, 구독료가 재결제 됩니다.
-* 구독 기간은 콘텐츠를 월 단위로 제작/제공 하시는 크리에이터분들에 맞추어 설정되었기 때문에 30일 단위 구독 갱신이 불가합니다.
-* 재결제 실패 시 구독 권한이 상실됩니다.
-  * 월 내 재구독 시 연속 구독 기간은 복구됩니다.
-* 재결제 하루 전 날은 신규 구독이 불가합니다.
+* The initial subscription fee is charged on the payment date, and it renews every 1st of the month with the registered card.
+* Subscription periods are set to a monthly cycle to match creators who produce/provide content monthly, so 30-day renewals aren’t available.
+* If a renewal payment fails, subscription privileges are lost.  
+  * Resubscribing within the same month restores your continuous subscription period.
+* New subscriptions aren’t available the day before renewal.
 
 {% hint style="danger" %}
-<mark style="color:red;">매월 1일 재결제</mark>로 월 말에 구독 시 금방 구독 권한이 상실 될 수 있습니다.&#x20;
+<mark style="color:red;">Renewals happen on the 1st of each month</mark>, so subscribing late in the month might mean losing privileges soon after.  
 
-가급적 월 초에 구독하시는걸 권장드립니다.
+We recommend subscribing early in the month if possible!
 {% endhint %}
 
 ***
 
-## 구독 취소
+## Canceling Subscriptions
 
-재결제가 되기 전 미리 구독 취소를 신청할 수 있으며, 구독 취소 신청 시 다음 달 재결제가 이뤄지지 않습니다.
+You can request to cancel your subscription before the next renewal, and it won’t renew the following month.
 
-### 구독 취소 신청 방법
+### How to Cancel a Subscription
 
-1. 마이페이지 > 구독중인 채널 > “구독관리” 버튼 또는 구독 취소를 원하시는 채널 페이지로 가서 “구독중” 버튼을 누르세요.
-2. 구독을 취소하고 싶은 티어를 선택해서 “구독중” 버튼을 누르면 구독 취소 신청이 완료됩니다.
-3. 구독 취소 신청 후에도 이번 달 구독 권한은 말 일까지 유지 됩니다.
+1. Go to My Page > Subscribed Channels > “Manage Subscription” button, or visit the channel page you want to unsubscribe from and click the “Subscribed” button.
+2. Select the tier you want to cancel and hit the “Subscribed” button to complete the cancellation request.
+3. Even after requesting cancellation, this month’s subscription privileges remain active until the end of the month.
 
 ***
