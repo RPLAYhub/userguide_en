@@ -1,63 +1,62 @@
 ---
-description: 알플레이 코인으로 다양한 형태의 후원을 통해 좋아하는 크리에이터를 응원할 수 있습니다.
+description: Support your favorite creators in various ways using Rplay Coins.
 ---
 
-# 후원 안내
+# Sponsorship Guide
 
 ***
 
-## 라이브 후원
+## Live Sponsorship
 
-진행 중인 라이브에서 채팅, 룰렛, 미션 후원을 할 수 있습니다.
+You can support creators during a live stream through chat sponsorship, roulette sponsorship, and mission sponsorship.
 
 <figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-무료 방송의 경우 후원 시, 1080p 화질로 시청이 가능합니다. (크리에이터가 720p 화질로 송출 시 불가)
+For free broadcasts, sponsorship allows you to watch in 1080p quality. (Not applicable if the creator streams in 720p.)
 {% endhint %}
 
-### 채팅 후원
+### Chat Sponsorship
 
-후원 시 채팅창에 메시지가 강조되어 표시되거나 크리에이터의 설정에 따라 방송화면에 표시 및 TTS가 적용되는 후원 입니다.
+When you send a chat sponsorship, your message will be highlighted in the chat window. Depending on the creator's settings, it may also appear on the broadcast screen with TTS (Text-to-Speech) enabled.
 
 <figure><img src="../.gitbook/assets/image (108).png" alt="" width="357"><figcaption></figcaption></figure>
 
-### 룰렛 후원
+### Roulette Sponsorship
 
-크리에이터가 설정해둔 금액 및 항목과 확률이 적용된 룰렛이 돌아가는 후원입니다.
+This sponsorship spins a roulette wheel set by the creator, applying preset amounts, items, and probabilities.
 
 <figure><img src="../.gitbook/assets/image (109).png" alt="" width="358"><figcaption></figcaption></figure>
 
-### 미션 후원
+### Mission Sponsorship
 
-크리에이터에게 원하는 미션을 상금을 제안할 수 있는 후원 기능입니다.
+Mission sponsorship allows you to propose a challenge to the creator along with a reward amount.
 
-크리에이터는 미션 수락, 거절 및 최소 금액을 설정 할 수 있으며, 중도 취소 시 크리에이터가 설정한 취소수수료가 부과될 수 있습니다.
+Creators can accept or decline missions and set a minimum sponsorship amount. If a mission is canceled midway, a cancellation fee set by the creator may apply.
 
 <figure><img src="../.gitbook/assets/image (110).png" alt="" width="370"><figcaption></figcaption></figure>
 
-### 러벤스 후원
+### Lovense Sponsorship
 
-크리에이터가 러벤스 연동 방송을 진행 중인 경우, `채팅 후원`을 통해 연동된 블루투스 성인기구를 작동 시킬 수 있습니다.
+If the creator has Lovense integration enabled, `Chat Sponsorship` can activate their connected Bluetooth adult device.
 
-채팅 후원을 통해 러벤스를 작동시킬 수 있으며, 크리에이터의 설정값에 맞춰 코인을 후원하면 다양한 강도, 지속시간, 움직임패턴으로 기구를 작동시킬 수 있습니다.
+By sending a chat sponsorship with the appropriate coin amount, you can control the device’s intensity, duration, and movement pattern according to the creator’s settings.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="133"><figcaption><p>방송화면에 제공되는 메뉴판(설정값) 예시</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="133"><figcaption><p>Example of the settings menu displayed on the broadcast screen</p></figcaption></figure>
 
 ***
 
-## 일반 후원
+## General Sponsorship
 
-### 채널 후원
+### Channel Sponsorship
 
-크리에이터 채널 내 1:1 대화 옆에 더보기 버튼을 눌러 채널 후원과 함께 응원 메시지를 보낼 수 있습니다.
+You can send a sponsorship along with a support message by clicking the menu button next to the 1:1 chat button on the creator's channel.
 
 <figure><img src="../.gitbook/assets/image (106).png" alt="" width="434"><figcaption></figcaption></figure>
 
-### 댓글 후원
+### Comment Sponsorship
 
-콘텐츠 댓글 작성 버튼 옆 댓글 후원 버튼을 눌러 콘텐츠 후원과 함께 응원 댓글을 작성 할 수 있습니다.\
-\*후원 댓글은 댓글 리스트 최상단에 표시됩니다.
+By clicking the sponsorship button next to the comment section, you can sponsor a specific piece of content while leaving a supportive comment.\
+\*Sponsored comments are pinned to the top of the comment list.
 
 <figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
-
