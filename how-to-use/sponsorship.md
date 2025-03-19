@@ -2,7 +2,7 @@
 description: Support your favorite creators in various ways using Rplay Coins.
 ---
 
-# Sponsorship Guide
+# Sponsorship
 
 ***
 
@@ -10,7 +10,7 @@ description: Support your favorite creators in various ways using Rplay Coins.
 
 You can support creators during a live stream through chat sponsorship, roulette sponsorship, and mission sponsorship.
 
-<figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CE5CB755-F1C1-441D-AABE-ABC58584BE46_4_5005_c.jpeg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 For free broadcasts, sponsorship allows you to watch in 1080p quality. (Not applicable if the creator streams in 720p.)

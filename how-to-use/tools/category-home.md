@@ -1,15 +1,15 @@
-# Category Home Settings
+# Category Home
 
 ## What Are Category Home Settings?
 
-> A feature that lets you set your favorite category page in RPLAY as your homepage.  
+> A feature that lets you set your favorite category page in RPLAY as your homepage.\
 > If you only want to see creators and content you love, set that page as your homepage now!
 
-* When you set a page as your homepage, it becomes your default landing spot on RPLAY.  
+* When you set a page as your homepage, it becomes your default landing spot on RPLAY.
   * Visiting rplay.live or tapping the RPLAY logo in the top left takes you to your custom homepage instead of the default one.
 * Audio fans can set the ASMR/Voice page as their homepage, VTuber fans can pick the VTUBER page, and so on.
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4766F88F-0AC7-4678-AA2A-39F3684EFB0F_1_201_a.jpeg" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -1,11 +1,11 @@
-# RPLAY App Introduction
+# RPLAY App
 
 ***
 
 ## RPLAY APP <a href="#undefined" id="undefined"></a>
 
-> You can enjoy RPLAY on the app too!  
->  
+> You can enjoy RPLAY on the app too!
+>
 > Download RPLAY from Google Play Store or iOS App Store and dive into content that fits your taste!
 
 #### **Android App Download**
@@ -20,12 +20,12 @@
 
 ### RPLAY App Usage Guide
 
-1. Viewing Adult Content in the App  
-   * To see adult content in the app, head to the [`My Info`](https://rplay.live/myinfo/) page via a web browser and turn ON the `Show 19+ Content in App` button!
+1. Viewing Adult Content in the App
+   * To see adult content in the app, head to the [`My Info`](https://rplay.live/myinfo/) page via a web browser and turn ON the `Show NSFW Content in App` button!
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/F1D3968E-928D-4629-A750-1841A53A8C90_4_5005_c.jpeg" alt=""><figcaption></figcaption></figure>
 
-2. Charging Coins in the App  
+2. Charging Coins in the App
    * When charging coins in the app, extra fees may apply due to store commissions.
 
 {% hint style="warning" %}
